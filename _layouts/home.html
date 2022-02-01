@@ -1,8 +1,18 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  
+  {% include head.html %}
 
-{% for post in site.posts %}
-<li><a href="{{post.url}}">{{ post.title }}</a>
+  <body>
+    {% include page-header.html %}
 
-{% endfor %}
+    <section class="main-content">
+      
+      {{ content }}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
+</html>
