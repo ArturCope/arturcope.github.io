@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Приветствую!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Меня зовут Илья.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+В данный момент я работаю инженером-конструктором. 
+Имею степень бакалавра университета ИТМО по специальности "Мехатроника и робототехника".
+Интересуюсь программированием в целях упростить и ускорить себе работу по основному роду деятельности. И стараюсь быть в курсе последних инженерных и программных решений в робототехнике.
+Верю в то, что самые интересные идеи лежат на стыке двух областей.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Владею английским языком на уровне B2/C1. 
+Также в свободное время читаю художественную и нон-фикшн литературу и изучаю немецкий язык. 
+
+Найти меня можно тут: [https://t.me/ArturCope16][tg]
+
+[tg]: https://t.me/ArturCope16
