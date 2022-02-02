@@ -1,6 +1,7 @@
 ---
 title: Первый пост
 date: 2022-02-02
+comments: true
 ---
 
 
